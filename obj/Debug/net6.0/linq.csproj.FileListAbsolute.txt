@@ -1,0 +1,15 @@
+D:\proyecto web c#\linq\bin\Debug\net6.0\linq.exe
+D:\proyecto web c#\linq\bin\Debug\net6.0\linq.deps.json
+D:\proyecto web c#\linq\bin\Debug\net6.0\linq.runtimeconfig.json
+D:\proyecto web c#\linq\bin\Debug\net6.0\linq.dll
+D:\proyecto web c#\linq\bin\Debug\net6.0\linq.pdb
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.csproj.AssemblyReference.cache
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.AssemblyInfoInputs.cache
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.AssemblyInfo.cs
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.csproj.CoreCompileInputs.cache
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.dll
+D:\proyecto web c#\linq\obj\Debug\net6.0\refint\linq.dll
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.pdb
+D:\proyecto web c#\linq\obj\Debug\net6.0\linq.genruntimeconfig.cache
+D:\proyecto web c#\linq\obj\Debug\net6.0\ref\linq.dll
